@@ -2,5 +2,6 @@
   <component name="MaterialThemeConfig">
     <option name="version" value="2.2.0.1" />
     <option name="selectedTheme" value="SOLARIZED_DARK" />
+    <option name="tabsHeight" value="50" />
   </component>
 </application>
