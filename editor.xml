@@ -2,6 +2,10 @@
   <component name="EditorSettings">
     <option name="USE_SOFT_WRAPS" value="MAIN_EDITOR" />
     <option name="IS_ENSURE_NEWLINE_AT_EOF" value="true" />
+    <option name="IS_CAMEL_WORDS" value="true" />
+  </component>
+  <component name="JSEditorOptions">
+    <option name="START_STRING_INTERPOLATION_ON_TYPING" value="true" />
   </component>
   <component name="LiveEditOptions" chromeUpdateApp="true" chromeUpdateOnChanges="true" nodeUpdateOnChanges="true" restartIfHotSwapFailed="true">
     <option name="elementHighlighting" value="true" />
