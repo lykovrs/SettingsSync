@@ -1,7 +1,7 @@
 <application>
   <component name="MaterialThemeConfig">
     <option name="version" value="2.4.2-2018.1" />
-    <option name="selectedTheme" value="SOLARIZED_LIGHT" />
+    <option name="selectedTheme" value="SOLARIZED_DARK" />
     <option name="tabsHeight" value="50" />
     <option name="userId" value="-2c11266b:163e4d92772:-7fff" />
     <option name="allowDataCollection" value="true" />
