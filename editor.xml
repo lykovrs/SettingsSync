@@ -1,5 +1,0 @@
-<application>
-  <component name="LiveEditOptions" nodeUpdateOnChanges="true" restartIfHotSwapFailed="true" useJBChromeExtension="true">
-    <option name="elementHighlighting" value="true" />
-  </component>
-</application>
