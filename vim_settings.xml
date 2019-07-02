@@ -1,0 +1,46 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="true" />
+    <globalmarks />
+    <filemarks>
+      <file name="/GraphQL.variables.json" timestamp="1556100108970">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/GraphQL.result.json" timestamp="1556100121145">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/edupower/front/app/src/utils/dayjs.ts" timestamp="1556100196391">
+        <mark key="[" line="11" column="34" />
+        <mark key="]" line="14" column="110" />
+        <mark key="^" line="14" column="110" />
+        <mark key="." line="14" column="110" />
+      </file>
+      <file name="$USER_HOME$/Projects/edupower/distribution/frontend/README.md" timestamp="1556100124880">
+        <mark key="[" line="9" column="25" />
+        <mark key="]" line="9" column="25" />
+        <mark key="." line="9" column="25" />
+      </file>
+    </filemarks>
+    <jumps />
+    <registers>
+      <register name="1" type="2">
+        <text encoding="base64">ZXhwb3J0IGNvbnN0IGRheWpzID0gKGRhdGU6IERhdGUgfCBzdHJpbmcgfCBudW1iZXIgfCB1bmRlZmluZWQgPSB1bmRlZmluZWQpID0+IGNvbW1vbkRheWpzKGRhdGUpLmxvY2FsZSgncnUnKTsK</text>
+      </register>
+      <register name="&quot;" type="4">
+        <text />
+      </register>
+      <register name="-" type="4">
+        <text />
+      </register>
+    </registers>
+    <search>
+      <last-dir>0</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history />
+    <shortcut-conflicts />
+    <editor>
+      <key-repeat enabled="true" />
+    </editor>
+  </component>
+</application>
