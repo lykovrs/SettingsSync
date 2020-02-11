@@ -3,11 +3,12 @@
     <extensionMap>
       <mapping pattern="*gql" type="GraphQL" />
       <mapping pattern=".env." type="PLAIN_TEXT" />
-      <mapping pattern=".lintstagedrc" type="PLAIN_TEXT" />
       <mapping pattern="cardId.js" type="PLAIN_TEXT" />
       <mapping pattern=".huskyrc" type="PLAIN_TEXT" />
+      <mapping pattern=".lintstagedrc" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
+      <mapping pattern="apartments" type="TypeScript" />
       <mapping pattern="prepareIdFromObjectId" type="TypeScript" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
